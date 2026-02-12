@@ -1,0 +1,19 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01411,High-Z CNC,1.00,,,True
+1,M01026,HGZ-Evo [M0 Use],1.00,M01411,High-Z CNC,True
+2,M01231,HGZ-Evo - Steel Parts box,1.00,M01026,HGZ-Evo [M0 Use],True
+3,M01028,HGZ-Evo - Steel Parts - X Cross,1.00,M01231,HGZ-Evo - Steel Parts box,False
+3,M01030,HGZ-Evo - Steel Parts - Y Gantry,2.00,M01231,HGZ-Evo - Steel Parts box,False
+2,M00032,Alu Profile V-3030 (340mm) [1x M6 thread on BOTH sides],2.00,M01026,HGZ-Evo [M0 Use],False
+2,M01027,T8 Lead Screw 350mm,1.00,M01026,HGZ-Evo [M0 Use],False
+2,M01031,HGZ-Evo - Nuts & Screws bag,1.00,M01026,HGZ-Evo [M0 Use],True
+3,M01718,DIN912 M6x12 Black screw,4.00,M01031,HGZ-Evo - Nuts & Screws bag,False
+3,M00556,I-Type Sliding Nut M6,4.00,M01031,HGZ-Evo - Nuts & Screws bag,False
+3,M00389,Cable Tie 100mm x 2.5 mm,10.00,M01031,HGZ-Evo - Nuts & Screws bag,False
+1,M01005,HGZ-Pro/Fab [M0 Use],1.00,M01411,High-Z CNC,True
+2,M00032,Alu Profile V-3030 (340mm) [1x M6 thread on BOTH sides],2.00,M01005,HGZ-Pro/Fab [M0 Use],False
+2,M01006,Linear Rail HGR20 (300mm),2.00,M01005,HGZ-Pro/Fab [M0 Use],False
+2,M01007,Ballscrew SFU1605 350mm & Nut,1.00,M01005,HGZ-Pro/Fab [M0 Use],False
+1,M01008,HGZ-Pro/Fab - Nuts & Screws bag,1.00,M01411,High-Z CNC,True
+2,M00555,I-Type Sliding Nut M5,2.00,M01008,HGZ-Pro/Fab - Nuts & Screws bag,False
+2,M00437,DIN912 M5x16 Black screw,2.00,M01008,HGZ-Pro/Fab - Nuts & Screws bag,False
