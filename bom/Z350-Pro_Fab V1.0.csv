@@ -1,0 +1,8 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01936,"Z-axis (High) (PRO, Z-350)",1.00,,,True
+1,M00032,Alu Profile V-3030 (340mm) [1x M6 thread on BOTH sides],2.00,M01936,"Z-axis (High) (PRO, Z-350)",False
+1,M01006,Linear Rail HGR20 (300mm),2.00,M01936,"Z-axis (High) (PRO, Z-350)",False
+1,M01007,Ballscrew SFU1605 350mm & Nut,1.00,M01936,"Z-axis (High) (PRO, Z-350)",False
+1,M01008,HGZ-Pro/Fab - Nuts & Screws bag,1.00,M01936,"Z-axis (High) (PRO, Z-350)",True
+2,M00555,I-Type Sliding Nut M5,2.00,M01008,HGZ-Pro/Fab - Nuts & Screws bag,False
+2,M00437,DIN912 M5x16 Black screw,2.00,M01008,HGZ-Pro/Fab - Nuts & Screws bag,False
