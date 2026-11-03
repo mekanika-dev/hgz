@@ -1,24 +1,29 @@
-# High-Z Upgrade
+# Z350 & Z600 Upgrade
+
+This repository covers the two Z-axis height upgrades for Mekanika machines:
+
+- **Z350** (formerly *High-Z*) - available for Evo, Pro and Fab
+- **Z600** (*Super High-Z*) - available for Pro and Fab
 
 - [Assembly Guide & Documentation](https://support.mekanika.io/products/high-z-upgrade)
 - [Shop](https://www.mekanika.io/en/store/be/high-z)
 - [Contact](https://www.mekanika.io/contact-us/)
 
-![High-Z](https://www.mekanika.io/_next/image?url=https%3A%2F%2Fs3storage-medusa.ams3.digitaloceanspaces.com%2FHigh-Z%20-%20Pro%20-%20Studio-01JKTTH39QC2VKCSV07H2V23QM.jpg&w=1080&q=90)
+![Z350](https://www.mekanika.io/_next/image?url=https%3A%2F%2Fs3storage-medusa.ams3.digitaloceanspaces.com%2FHigh-Z%20-%20Pro%20-%20Studio-01JKTTH39QC2VKCSV07H2V23QM.jpg&w=1080&q=90)
 
 ## Repository Structure
 
 - **`bom/`** - Bill of Materials
 - **`cad/`** - CAD files
 
-The Bill of Materials is available as a CSV file, which is dynamically updated from our ERP. We recommend using this **[web viewer](https://mekanika-dev.github.io/data-sync-actions/odoo/bom-viewer.html)** to browse its content.
+The Bill of Materials is available as one CSV file per configuration (Z350-Evo, Z350-Pro_Fab, Z600-Fab, Z600-Pro), which is dynamically updated from our ERP. We recommend using this **[web viewer](https://mekanika-dev.github.io/data-sync-actions/odoo/bom-viewer.html)** to browse its content.
 
 All 3D assembly files are made in STEP format and compatible with many CAD software. Please note that you will need Git LFS installed to clone or pull the repo correctly, since these files exceed 100MB.
 
 The design files can also be viewed in web browsers using these links:
 
-- [High-Z - Evo config](https://a360.co/45Vu9HG)
-- [High-Z - Pro/Fab config](https://a360.co/3VkAMhR)
+- [Z350 - Evo config](https://a360.co/45Vu9HG)
+- [Z350 - Pro/Fab config](https://a360.co/3VkAMhR)
 
 ## Assembly Guide
 

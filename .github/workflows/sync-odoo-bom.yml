@@ -11,7 +11,7 @@ on:
         description: "Nom du fichier CSV généré"
         required: false
         type: string
-        default: "HGZ V1.0"
+        default: "Z350-Evo V1.0"
 
 permissions:
   contents: write
