@@ -1,0 +1,49 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M02268,"Z-axis (High) (FAB, Z-600)",1.00,,,True
+1,M01643,Alu Profile I-3030 (590mm) [1x M6 thread on BOTH sides],2.00,M02268,"Z-axis (High) (FAB, Z-600)",False
+1,M01235,Linear Rail HGR20 (550mm),2.00,M02268,"Z-axis (High) (FAB, Z-600)",False
+1,M01644,Ballscrew SFU1605 600mm & Nut,1.00,M02268,"Z-axis (High) (FAB, Z-600)",False
+1,M02212,FAB - Fasteners box (Z-600),1.00,M02268,"Z-axis (High) (FAB, Z-600)",True
+2,M00621,Linear Block - H20B,2.00,M02212,FAB - Fasteners box (Z-600),False
+2,M00265,FAB - Spacer Bag - M5x6,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00798,Spacer M5x6mm,2.00,M00265,FAB - Spacer Bag - M5x6,False
+2,M02175,DIN912 Black Screw Bag - M4x10,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M01696,DIN912 M4x10 Black screw,2.00,M02175,DIN912 Black Screw Bag - M4x10,False
+2,M02177,DIN912 Black Screw Bag - M4x16 ,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M01698,DIN912 M4x16 Black screw,1.00,M02177,DIN912 Black Screw Bag - M4x16 ,False
+2,M02178,DIN912 Black Screw Bag - M4x20,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00430,DIN912 M4x20 Black screw,3.00,M02178,DIN912 Black Screw Bag - M4x20,False
+2,M02182,DIN912 Black Screw Bag - M6x30,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00453,DIN912 M6x30 Black screw,10.00,M02182,DIN912 Black Screw Bag - M6x30,False
+2,M02183,DIN912 Black Screw Bag - M6x40,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00454,DIN912 M6x40 Black screw,8.00,M02183,DIN912 Black Screw Bag - M6x40,False
+2,M02185,DIN985 Lock Nut Bag - M6,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00630,Lock Nut DIN985 M6,16.00,M02185,DIN985 Lock Nut Bag - M6,False
+2,M02186,I-Type Sliding Nut Bag - M4,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00554,I-Type Sliding Nut M4,2.00,M02186,I-Type Sliding Nut Bag - M4,False
+2,M02190,I-Type Sliding Nut Bag - M5,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00555,I-Type Sliding Nut M5,10.00,M02190,I-Type Sliding Nut Bag - M5,False
+2,M02191,DIN9021 Washer Bag - M4x12,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00423,DIN9021 Washer M4x12,2.00,M02191,DIN9021 Washer Bag - M4x12,False
+2,M02192,DIN985 Lock Nut Bag - M4,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00629,Lock Nut DIN985 M4,4.00,M02192,DIN985 Lock Nut Bag - M4,False
+2,M02193,DIN912 Black Screw Bag - M5x16,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00437,DIN912 M5x16 Black screw,24.00,M02193,DIN912 Black Screw Bag - M5x16,False
+2,M02194,I-Type Sliding Nut Bag - M6,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M00556,I-Type Sliding Nut M6,10.00,M02194,I-Type Sliding Nut Bag - M6,False
+2,M02195,DIN912 Black Screw Bag - M6x16,1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M01704,DIN912 M6x16 Black screw,12.00,M02195,DIN912 Black Screw Bag - M6x16,False
+2,M02211,FAB/PRO - Mechanical Elements bag (Z-600),1.00,M02212,FAB - Fasteners box (Z-600),True
+3,M02265,Z-axis Friction Brake,1.00,M02211,FAB/PRO - Mechanical Elements bag (Z-600),True
+4,M02266,ISO4026  M4x10 Black Screw,1.00,M02265,Z-axis Friction Brake,False
+3,M00380,Cable Chain TP15 End Connector (Female),1.00,M02211,FAB/PRO - Mechanical Elements bag (Z-600),False
+3,M00381,Cable Chain TP15 End Connector (Male),1.00,M02211,FAB/PRO - Mechanical Elements bag (Z-600),False
+3,M02159,"Rubber Joint ""C"" section - 40mm (adhesive)",1.00,M02211,FAB/PRO - Mechanical Elements bag (Z-600),False
+3,M02160,Steel Parts - Adapter Plate for Z Cable Chain Back (3mm),1.00,M02211,FAB/PRO - Mechanical Elements bag (Z-600),False
+3,M02166,Steel Parts - Guide Plate for Z Cable Chain Top (3mm),1.00,M02211,FAB/PRO - Mechanical Elements bag (Z-600),False
+1,M00374,Cable Chain 900mm (Evo/Pro-S/M/L),1.00,M02268,"Z-axis (High) (FAB, Z-600)",False
+1,M02339,FAB - D - Steel Parts Box 2/2 (Z-600),1.00,M02268,"Z-axis (High) (FAB, Z-600)",True
+2,M02162,FAB - Steel Parts - Y gantry (Z-600),2.00,M02339,FAB - D - Steel Parts Box 2/2 (Z-600),False
+2,M02165,Fab/Pro - Steel Parts - Z Plate (Z-600),1.00,M02339,FAB - D - Steel Parts Box 2/2 (Z-600),False
+2,M02164,Fab/Pro - Steel Parts - VFD Plate (Z-600),1.00,M02339,FAB - D - Steel Parts Box 2/2 (Z-600),False
+2,M02163,Fab/Pro - Steel Parts - Gantry Bracket (Z-600),2.00,M02339,FAB - D - Steel Parts Box 2/2 (Z-600),False
