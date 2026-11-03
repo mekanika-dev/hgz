@@ -2,11 +2,10 @@
 
 This repository covers the two Z-axis height upgrades for Mekanika machines:
 
-- **Z350** (formerly *High-Z*) - available for Evo, Pro and Fab
-- **Z600** (*Super High-Z*) - available for Pro and Fab
+- **Z350** - available for Evo, Pro and Fab
+- **Z600** - available for Pro and Fab
 
-- [Assembly Guide & Documentation](https://support.mekanika.io/products/high-z-upgrade)
-- [Shop](https://www.mekanika.io/en/store/be/high-z)
+- [Assembly Guide & Documentation](https://support.mekanika.io/products/z-axis-upgrade)
 - [Contact](https://www.mekanika.io/contact-us/)
 
 ![Z350](https://www.mekanika.io/_next/image?url=https%3A%2F%2Fs3storage-medusa.ams3.digitaloceanspaces.com%2FHigh-Z%20-%20Pro%20-%20Studio-01JKTTH39QC2VKCSV07H2V23QM.jpg&w=1080&q=90)
@@ -22,12 +21,13 @@ All 3D assembly files are made in STEP format and compatible with many CAD softw
 
 The design files can also be viewed in web browsers using these links:
 
-- [Z350 - Evo config](https://a360.co/45Vu9HG)
-- [Z350 - Pro/Fab config](https://a360.co/3VkAMhR)
+- [Z350 - Evo](https://a360.co/4sK9jGw)
+- [Z350 - Pro/Fab](https://a360.co/48ujPbj)
+- [Z600 - Pro/Fab](https://a360.co/3UvosPc)
 
 ## Assembly Guide
 
-The assembly guide is available on our [support website](https://support.mekanika.io/products/high-z-upgrade). If you have feedback or want to raise an issue about a specific assembly step, you can use the feedback buttons available on each step's page.
+The assembly guide is available on our [support website](https://support.mekanika.io/products/z-axis-upgrade). If you have feedback or want to raise an issue about a specific assembly step, you can use the feedback buttons available on each step's page.
 
 ## Community
 
